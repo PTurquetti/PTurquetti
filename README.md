@@ -27,20 +27,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sql" height="60" alt="sql logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
 </div>
 
-
-![PTurquetti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PTurquetti&theme=default&show_icons=true&hide_border=true&layout=compact)
-
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
 
 
 
