@@ -30,8 +30,11 @@
 
 <h2 align="left">Minhas Estatísticas</h2>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PTurquetti&hide=ASP.net,ShaderLab&exclude_repo=Psel_FoG&layout=compact&theme=github_dark" alt="Top Langs" height="150"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PTurquetti&hide=ASP.net,ShaderLab&exclude_repo=Psel_FoG&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" height="150"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com?user=PTurquetti&theme=github-dark&hide_border=true" alt="GitHub Streak" height="150"/>
 </div>
+
+
 
