@@ -17,29 +17,25 @@
 🎲 Curiosidade: Já ensinei programação para jovens do ensino público usando Scratch 🎮
 </p>
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauloturquetti)
 [![Gmail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pauloturquetti29@gmail.com)
 
+
 <h2 align="left">Eu programo com</h2>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,java,c" height="50" alt="Skills" />
+</p>
 
 ###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PTurquetti&hide=ASP.net,ShaderLab&exclude_repo=Psel_FoG&layout=compact)
+<h2 align="left">Minhas Estatísticas</h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PTurquetti&theme=tokyonight)](https://github.com/PTurquetti)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PTurquetti&hide=ASP.net,ShaderLab&exclude_repo=Psel_FoG&layout=compact&theme=transparent" alt="Top Langs" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=PTurquetti&theme=transparent" alt="GitHub Streak" height="150"/>
+</div>
+
 
 
 
