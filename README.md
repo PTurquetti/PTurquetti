@@ -12,7 +12,7 @@
 
 <p align="left">
 ✨ Criando bugs desde 2022 (mas também aprendendo muito 😅)<br>
-📚 Atualmente estou aprendendo <strong>React</strong> e <strong>Docker</strong> para complementar meus projetos<br>
+📚 Atualmente estou aprendendo <strong>React</strong> para complementar meus projetos de desenvolvimento web<br>
 🎯 Objetivos: Me tornar um desenvolvedor full-stack e atuar em projetos com impacto social e inovação tecnológica<br>
 🎲 Curiosidade: Já ensinei programação para jovens do ensino público usando Scratch 🎮
 </p>
