@@ -22,8 +22,8 @@
 
 
 <h2 align="left">Eu programo com</h2>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,java,c" height="50" alt="Skills" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,java,c" height="50" alt="Skills" />
 </p>
 
 ###
